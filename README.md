@@ -1,0 +1,1 @@
+# heartfailureprediction-naivebayes-OneR-datamining-decisiontree-discretization-binning
